@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default function Timetable(){
-    return(<h1>This is a timetable page.</h1>);
+    return(<h1>Welcome to timetable page.</h1>);
 }

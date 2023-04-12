@@ -66,8 +66,8 @@ export default function StudentLoginForm(props){
                     type="button"
                     text="Forgot Password"
                     className={classes.anotherButton}
-                    component={Link}
-                    to="/signUp"
+                    {/*component={Link}
+                    to="/signUp"*/}
                     />
             </Form>
         </div>

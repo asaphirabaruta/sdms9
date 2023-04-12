@@ -36,9 +36,9 @@ export default function ButtonAppBar() {
           <Typography variant="h6" className={classes.title}>
             Students Documents Management System
           </Typography>
-          <IconButton color="inherit" className={classes.bellButton} component={Link} to="/notices">
-              <NotificationsNoneIcon/>
-          </IconButton>
+//           <IconButton color="inherit" className={classes.bellButton} component={Link} to="/notices">
+//               <NotificationsNoneIcon/>
+//           </IconButton>
           <Button color="inherit" className={classes.menuButton} component={ Link } to="/login">Login</Button>
           {/* <Button color="inherit" component={ Link } to="/signUp">Sign Up</Button> */}
         </Toolbar>
